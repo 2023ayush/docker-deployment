@@ -2,6 +2,10 @@
 
 This is a simple Spring Boot REST API deployed using **Docker** on an **AWS EC2 instance**.
 
+## Demo Image
+
+
+
 ## 🛠️ Tech Stack
 
 - Java 17
