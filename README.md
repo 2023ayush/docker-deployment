@@ -1,9 +1,10 @@
 # 🚀 Spring Boot Docker Deployment
 
 This is a simple Spring Boot REST API deployed using **Docker** on an **AWS EC2 instance**.
+### 📸 Demo Image
 
-## Demo Image
-https://github.com/2023ayush/docker-deployment/raw/ffe7b306d7138d53d01daa035fad14cdf164ad9d/docker_deployment_ss.PNG
+![Docker Deployment Screenshot](https://github.com/2023ayush/docker-deployment/raw/ffe7b306d7138d53d01daa035fad14cdf164ad9d/docker_deployment_ss.PNG)
+
 
 
 
