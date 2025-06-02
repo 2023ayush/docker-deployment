@@ -8,6 +8,6 @@ public class DockerTest {
 
     @GetMapping("/docker")
     public String display(){
-        return "Hello from Docker , Jenkins";
+        return "Hello from Docker , Jenkins now ";
     }
 }
