@@ -40,6 +40,7 @@ docker pull ayush4857/docker
 
 ### 4. Run the container with port mapping
 docker run -d -p 8080:8080 ayush4857/docker
+
 docker run -d -p 9091:8080 ayush4857/docker
 
 ### 5. Visit app in browser
@@ -47,6 +48,7 @@ http://<EC2_PUBLIC_IP>:8080/docker
 
 ✅ API Endpoint
 GET /docker → "Hello from Docker"
+
 GET /docker → "Hello from Docker, Jenkins now"
 
 
