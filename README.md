@@ -1,4 +1,4 @@
-# 🚀 Spring Boot Docker Deployment
+# 🚀 Spring Boot Docker and Jenkins Deployment
 
 This is a simple Spring Boot REST API deployed using **Docker** on an **AWS EC2 instance**.
 ### 📸 Demo Image
