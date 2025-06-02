@@ -5,13 +5,13 @@ This is a simple Spring Boot REST API deployed using **Docker** on an **AWS EC2 
 
 ![Docker Deployment Screenshot](https://github.com/2023ayush/docker-deployment/raw/ffe7b306d7138d53d01daa035fad14cdf164ad9d/docker_deployment_ss.PNG)
 
-[Jenkins Deployment Screenshot](https://github.com/2023ayush/docker-deployment/blob/main/Capture%20Jenkins.PNG)
+[Jenkins Deployment Screenshot - 1](https://github.com/2023ayush/docker-deployment/blob/main/Capture%20Jenkins.PNG)
 
-[Jenkins Deployment Screenshot](https://github.com/2023ayush/docker-deployment/blob/main/Capture%20jenkins%201.PNG)
+[Jenkins Deployment Screenshot - 2](https://github.com/2023ayush/docker-deployment/blob/main/Capture%20jenkins%201.PNG)
 
-[Jenkins Deployment Screenshot](https://github.com/2023ayush/docker-deployment/blob/main/Capture%20jenkins%201.PNG)
+[Jenkins Deployment Screenshot - 3](https://github.com/2023ayush/docker-deployment/blob/main/Capture%20jenkins%201.PNG)
 
-[Jenkins Deployment Screenshot](https://github.com/2023ayush/docker-deployment/blob/main/Capture%20jenkins%203.PNG)
+[Jenkins Deployment Screenshot - 4](https://github.com/2023ayush/docker-deployment/blob/main/Capture%20jenkins%203.PNG)
  
 
 
